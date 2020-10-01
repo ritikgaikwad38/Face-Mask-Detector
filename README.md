@@ -1,5 +1,5 @@
 # Face Mask Detector
- This project is helpful in detecting if a face has mask or not.
+ This project is helpful in detecting wheather a person is wearing a mask or not.
  
 # Demo
 ![Demo Video](https://github.com/vaidehi9896/Face-Mask-Detector/blob/master/demo.gif)
